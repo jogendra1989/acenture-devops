@@ -17,3 +17,4 @@ echo "[insert into file" >Jenkins
 echo "[INFO] ****************************"
 cat jenkins
 
+date
